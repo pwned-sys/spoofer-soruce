@@ -2,6 +2,10 @@
 
 If you need drivers for it and you can pay - pwned#0345 [Spoofer Drivers With Sources]
 
+1. Download The Source Code
+2. Download LIBS: https://www.mediafire.com/file/h31u14vw3ry90ah/LIBS.zip/file
+3. Drag The "libs" Folder Into The Source Code Folder
+
 ###
 
 <div align="center">
